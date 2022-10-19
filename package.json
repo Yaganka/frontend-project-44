@@ -1,5 +1,6 @@
 {
   "name": "@hexlet/code",
+  "type": "module",
   "version": "1.0.0",
   "description": "[![Actions Status](https://github.com/Yaganka/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Yaganka/frontend-project-44/actions)",
   "main": "index.js",
@@ -10,13 +11,15 @@
     "brain-games": "bin/brain-games.js"
   },
   "repository": {
-    "type": "module",
-    "url": "git+https://github.com/Yaganka/frontend-project-44.git"
+  "url": "git+https://github.com/Yaganka/frontend-project-44.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Yaganka/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/Yaganka/frontend-project-44#readme"
+  "homepage": "https://github.com/Yaganka/frontend-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
