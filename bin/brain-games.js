@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import helloDialog from '../src/cli.js';
+import { trueOrFalse } from './brain-even.js';
 
-helloDialog();
+trueOrFalse();
