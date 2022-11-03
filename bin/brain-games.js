@@ -1,4 +1,5 @@
 #!/usr/bin/env node
-import { trueOrFalse } from './brain-even.js';
+import helloDialog from '../src/cli.js';
 
-trueOrFalse();
+console.log('Welcome to the Brain Games!');
+helloDialog();
