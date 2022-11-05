@@ -12,16 +12,18 @@ const operations = (randomNumber1, randomNumber2, operation) => {
       return randomNumber1 - randomNumber2;
     case '*':
       return randomNumber1 * randomNumber2;
-    }
+    default:
+      throw new Error(`operation ${operation} is not supported`);
+  }
 };
 
 const brainCalc = () => {
-let randomNumber1 = getRandom();
-let randomNumber2 = getRandom();
-const randomOperationSign = operationSigns[Math.floor(Math.random() * 3)];
-const correctAnswer = operations(randomNumber1, randomNumber2, randomOperationSign);
-const question = `${randomNumber1} ${randomOperationSign} ${randomNumber2}`;
-return [question, String(correctAnswer)];
+  const randomNumber1 = getRandom();
+  const randomNumber2 = getRandom();
+  const randomOperationSign = operationSigns[Math.floor(Math.random() * 3)];
+  const correctAnswer = operations(randomNumber1, randomNumber2, randomOperationSign);
+  const question = `${randomNumber1} ${randomOperationSign} ${randomNumber2}`;
+  return [question, String(correctAnswer)];
 };
 
 export default () => startGame(brainCalc, rules);
