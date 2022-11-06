@@ -3,19 +3,19 @@ import startGame from '../index.js';
 const rules = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 const getRandom = () => Math.floor(Math.random() * 100);
 
-function isPrime() {
-    const randomNum = getRandom();
+function isPrime(randomNum) {
     for (let i = 2, max = Math.sqrt(randomNum); i <= max; i += 1) {
         if (randomNum % i === 0) {
-            return 'no';
+            return false;
         }
     }
-    return 'yes';
+    return true;
 }
 
 const brainPrime = () => {
-    const question = getRandom();
-    const correctAnswer = isPrime();
+    const randomNum = getRandom();
+    const question = randomNum;
+    const correctAnswer = isPrime(question) ? 'yes' : 'no';
     return [question, correctAnswer];
 };
 
