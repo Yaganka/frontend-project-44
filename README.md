@@ -25,12 +25,16 @@
 Запуск игры: brain-even
 https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG
 
+
+
 Игра: "Калькулятор"
 Описание игры:
 Пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 
 Запуск: brain-calc
 https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh
+
+
 
 Игра: "НОД"
 Описание игры:
@@ -39,6 +43,8 @@ https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh
 Запуск: brain-gcd
 https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w
 
+
+
 Игра: "Арифметическая прогрессия"
 Описание игры:
 Пользователю показывается ряд чисел, образующий арифметическую прогрессию, случайное число из этого ряда заменятся двумя точками.
@@ -46,6 +52,8 @@ https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w
 
 Запуск: brain-progression
 https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL
+
+
 
 Игра: "Простое ли число?"
 Описание игры:
