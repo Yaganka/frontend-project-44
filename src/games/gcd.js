@@ -1,8 +1,8 @@
 import startGame from '../index.js';
+import getRandom from '../getRandom.js';
 
 const rules = 'Find the greatest common divisor of given numbers.';
 
-const getRandom = () => Math.floor(Math.random() * 100);
 const gcd = (num1, num2) => {
   if (num2 === 0) {
     return num1;

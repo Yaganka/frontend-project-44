@@ -1,7 +1,7 @@
 import startGame from '../index.js';
+import getRandom from '../getRandom.js';
 
 const rules = 'What is the result of the expression?';
-const getRandom = () => Math.floor(Math.random() * 100);
 
 const operationSigns = ['+', '-', '*'];
 const operations = (randomNumber1, randomNumber2, operation) => {
