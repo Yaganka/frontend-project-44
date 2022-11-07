@@ -9,7 +9,7 @@ function isPrime(randomNum) {
       return false;
     }
   }
-  return true;
+  return randomNum > 1;
 }
 
 const brainPrime = () => {
