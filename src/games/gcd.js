@@ -17,7 +17,7 @@ function brainGcd() {
   const num2 = Math.abs(randomNumber2);
   const resultGcd = gcd(num1, num2);
   const correctAnswer = resultGcd;
-  const question = `${num1}, ${num2}`;
+  const question = `${num1} ${num2}`;
   return [question, String(correctAnswer)];
 }
 
