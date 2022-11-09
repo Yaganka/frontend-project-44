@@ -23,7 +23,7 @@
 Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
 
 Запуск игры: brain-even
-https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG
+<a href="https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG">
 
 
 
@@ -32,7 +32,7 @@ https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG
 Пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 
 Запуск: brain-calc
-https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh
+<a href="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh">
 
 
 
@@ -41,7 +41,7 @@ https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh
 Пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
 
 Запуск: brain-gcd
-https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w
+<a href="https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w">
 
 
 
@@ -51,7 +51,7 @@ https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w
 Игрок должен определить это число.
 
 Запуск: brain-progression
-https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL
+<a href="https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL">
 
 
 
@@ -62,4 +62,4 @@ https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL
 Например, 7 — простое число, потому что делится без остатка только на 1 и на себя.
 
 Запуск: brain-prime
-https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR
+<a href="https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR">
