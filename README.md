@@ -23,7 +23,7 @@
 Описание игры:
 Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
 
-Запуск игры: <div font-weight="bold">brain-even</div>
+Запуск игры: <h4 font-weight="bold">brain-even</h4>
 <a href="https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG"><img src="https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG.png" width="836"/></a>
 
 
@@ -32,7 +32,7 @@
 Описание игры:
 Пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 
-Запуск: <span font-weight="bold">brain-calc</span>
+Запуск: <h4 font-weight="bold">brain-calc</h4>
 <a href="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh"><img src="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh.png" width="836"/></a>
 
 
@@ -41,7 +41,7 @@
 Описание игры:
 Пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
 
-Запуск: <p font-weight="bold">brain-gcd</p>
+Запуск: <h4 font-weight="bold">brain-gcd</h4>
 <a href="https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w"><img src="https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w.png" width="836"/></a>
 
 
@@ -51,7 +51,7 @@
 Пользователю показывается ряд чисел, образующий арифметическую прогрессию, случайное число из этого ряда заменятся двумя точками.
 Игрок должен определить это число.
 
-Запуск: <p font-weight="bold">brain-progression</p>
+Запуск: <h4 font-weight="bold">brain-progression</h4>
 <a href="https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL"><img src="https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL.png" width="836"/></a>
 
 
@@ -62,5 +62,5 @@
 Простое число — целое положительное число, имеющее ровно два различных натуральных делителя — единицу и самого себя.
 Например, 7 — простое число, потому что делится без остатка только на 1 и на себя.
 
-Запуск: <p font-weight="bold">brain-prime</p>
+Запуск: <h4 font-weight="bold">brain-prime</h4>
 <a href="https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR"><img src="https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR.png" width="836"/></a>
