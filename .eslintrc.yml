@@ -2,12 +2,10 @@
 
 plugins:
   # https://github.com/jest-community/eslint-plugin-jest
-  - jest
 
 # https://eslint.org/docs/user-guide/configuring#specifying-environments
 env:
   node: true
-  jest: true
   es2020: true
 
 extends:
@@ -20,5 +18,3 @@ parserOptions:
 rules:
   no-console: off
   import/extensions: 0
-  no-underscore-dangle: [2, { "allow": ["__filename", "__dirname"] }]
-  
