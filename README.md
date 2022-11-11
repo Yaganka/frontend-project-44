@@ -31,7 +31,7 @@
 Описание игры:
 Пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 
-Запуск: <span> <strong></strong>brain-calc</span>
+Запуск: <span> <strong>brain-calc</strong></span>
 <a href="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh"><img src="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh.png" width="836"/></a>
 
 
@@ -40,7 +40,7 @@
 Описание игры:
 Пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
 
-Запуск: <span> <strong></strong>brain-gcd</span>
+Запуск: <span> <strong>brain-gcd</strong></span>
 <a href="https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w"><img src="https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w.png" width="836"/></a>
 
 
@@ -50,7 +50,7 @@
 Пользователю показывается ряд чисел, образующий арифметическую прогрессию, случайное число из этого ряда заменятся двумя точками.
 Игрок должен определить это число.
 
-Запуск: <span> <strong></strong>brain-progression</span>
+Запуск: <span> <strong>brain-progression</strong></span>
 <a href="https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL"><img src="https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL.png" width="836"/></a>
 
 
@@ -61,5 +61,5 @@
 Простое число — целое положительное число, имеющее ровно два различных натуральных делителя — единицу и самого себя.
 Например, 7 — простое число, потому что делится без остатка только на 1 и на себя.
 
-Запуск: <span> <strong></strong>brain-prime</span>
+Запуск: <span> <strong>brain-prime</strong></span>
 <a href="https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR"><img src="https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR.png" width="836"/></a>
