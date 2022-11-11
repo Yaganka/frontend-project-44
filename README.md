@@ -1,5 +1,4 @@
  <h1 font-weight="bold", font-size="30px">Проект "Игры Разума"</h1>
-  <hr>
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Yaganka/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Yaganka/frontend-project-44/actions)
@@ -23,7 +22,7 @@
 Описание игры:
 Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
 
-Запуск игры: <h4 font-weight="bold">brain-even</h4>
+Запуск игры: <span> <strong>brain-even</strong></span>
 <a href="https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG"><img src="https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG.png" width="836"/></a>
 
 
@@ -32,7 +31,7 @@
 Описание игры:
 Пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 
-Запуск: <h4 font-weight="bold">brain-calc</h4>
+Запуск: <span font-weight="bold">brain-calc</span>
 <a href="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh"><img src="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh.png" width="836"/></a>
 
 
