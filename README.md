@@ -24,7 +24,7 @@
 Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
 
 Запуск игры: <span> <strong>brain-even</strong></span>
-<a href="https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG"><img src="https://asciinema.org/a/AnQcsd1edj9DHXvmLvilm2mVG.png" width="836"/></a>
+<a href="https://asciinema.org/a/537698" target="_blank"><img src="https://asciinema.org/a/537698.svg" /></a>
 
 
 
