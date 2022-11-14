@@ -1,10 +1,10 @@
-import gameBeginning from '../index.js';
-import getRandom from '../getRandom.js';
+import createGame from '../index.js';
+import getRandomNumber from '../getRandom.js';
 
 const rule = 'What is the result of the expression?';
 
 const operationSigns = ['+', '-', '*'];
-const operations = (randomNumber1, randomNumber2, operation) => {
+const selectOperation = (randomNumber1, randomNumber2, operation) => {
   switch (operation) {
     case '+':
       return randomNumber1 + randomNumber2;
@@ -17,13 +17,13 @@ const operations = (randomNumber1, randomNumber2, operation) => {
   }
 };
 
-const brainCalc = () => {
-  const randomNumber1 = getRandom(1, 50);
-  const randomNumber2 = getRandom(1, 50);
-  const randomOperationSign = operationSigns[getRandom(0, 3)];
-  const correctAnswer = operations(randomNumber1, randomNumber2, randomOperationSign);
+const calculateExpression = () => {
+  const randomNumber1 = getRandomNumber(1, 50);
+  const randomNumber2 = getRandomNumber(1, 50);
+  const randomOperationSign = operationSigns[getRandomNumber(0, 3)];
+  const correctAnswer = selectOperation(randomNumber1, randomNumber2, randomOperationSign);
   const question = `${randomNumber1} ${randomOperationSign} ${randomNumber2}`;
   return [question, String(correctAnswer)];
 };
 
-export default () => gameBeginning(brainCalc, rule);
+export default () => createGame(calculateExpression, rule);

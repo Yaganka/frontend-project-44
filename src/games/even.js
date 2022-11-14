@@ -1,13 +1,13 @@
-import gameBeginning from '../index.js';
-import getRandom from '../getRandom.js';
+import createGame from '../index.js';
+import getRandomNumber from '../getRandom.js';
 
 const rule = 'Answer "yes" if the number is even, otherwise answer "no".';
 const isEven = (number) => number % 2 === 0;
 
-const startSomeGame = () => {
-  const question = getRandom(0, 50);
+const startBrainGame = () => {
+  const question = getRandomNumber(0, 50);
   const correctAnswer = isEven(question) ? 'yes' : 'no';
   return [question, correctAnswer];
 };
 
-export default () => gameBeginning(startSomeGame, rule);
+export default () => createGame(startBrainGame, rule);
