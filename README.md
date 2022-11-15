@@ -24,7 +24,7 @@
 Пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное.
 
 Запуск игры: <span> <strong>brain-even</strong></span>
-<a href="https://asciinema.org/a/537698" target="_blank"><img src="https://asciinema.org/a/537698.svg" /></a>
+<a href="https://asciinema.org/a/537764" target="_blank"><img src="https://asciinema.org/a/537764.svg" /></a>
 
 
 
@@ -33,7 +33,7 @@
 Пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 
 Запуск: <span> <strong>brain-calc</strong></span>
-<a href="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh"><img src="https://asciinema.org/a/NGk38Mg6n58WUfyrSCtMDENnh.png" width="836"/></a>
+<a href="https://asciinema.org/a/537759" target="_blank"><img src="https://asciinema.org/a/537759.svg" /></a>
 
 
 
@@ -42,7 +42,7 @@
 Пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
 
 Запуск: <span> <strong>brain-gcd</strong></span>
-<a href="https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w"><img src="https://asciinema.org/a/91aIcejIE0sHziaJWvIhrvc1w.png" width="836"/></a>
+<a href="https://asciinema.org/a/537761" target="_blank"><img src="https://asciinema.org/a/537761.svg" /></a>
 
 
 
@@ -52,7 +52,7 @@
 Игрок должен определить это число.
 
 Запуск: <span> <strong>brain-progression</strong></span>
-<a href="https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL"><img src="https://asciinema.org/a/fTPvjO9j8fhqVUde4McZ1wPjL.png" width="836"/></a>
+<a href="https://asciinema.org/a/537762" target="_blank"><img src="https://asciinema.org/a/537762.svg" /></a>
 
 
 
@@ -63,4 +63,4 @@
 Например, 7 — простое число, потому что делится без остатка только на 1 и на себя.
 
 Запуск: <span> <strong>brain-prime</strong></span>
-<a href="https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR"><img src="https://asciinema.org/a/bvB59Tuauvm2ajVyDZvKo86zR.png" width="836"/></a>
+<a href="https://asciinema.org/a/537763" target="_blank"><img src="https://asciinema.org/a/537763.svg" /></a>
