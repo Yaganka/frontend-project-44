@@ -16,7 +16,7 @@ const generateProgression = () => {
   const step = getRandomNumber(2, 10);
   const firstNum = getRandomNumber(0, 20);
   const progression = createProgression(firstNum, step);
-  const hiddenIndex = getRandomNumber(1, progression.length);
+  const hiddenIndex = getRandomNumber(1, progression.length - 1);
   const correctAnswer = progression[hiddenIndex];
   progression[hiddenIndex] = '..';
   const question = progression.join(' ');
